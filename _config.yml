@@ -18,27 +18,27 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: ccastrol - canaltic # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the sub-title
+tagline: Blog de Linux, ciberseguridad y tecnología # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ""
+url: "https://ccastrol.github.io"
 
 github:
-  username: github_username # change to your github username
+  username: ccastrol # change to your github username
 
 twitter:
-  username: twitter_username # change to your twitter username
+  username:  # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@domain.com # change to your email address
+  name: Carlos Castro
+  email: carloscastroleon@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/username # change to your twitter homepage
@@ -53,7 +53,7 @@ google_site_verification: # fill in to your verification string
 # The end of `jekyll-seo-tag` settings
 
 google_analytics:
-  id: # fill in your Google Analytics ID
+  id: G-6PQWTDHJHJ # fill in your Google Analytics ID
 
 # Prefer color scheme setting.
 #
@@ -76,7 +76,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: "/assets/images/avatar.png"
 
 # boolean type, the global switch for TOC in posts.
 toc: true
