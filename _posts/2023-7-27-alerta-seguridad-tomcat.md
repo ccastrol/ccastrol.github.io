@@ -1,7 +1,9 @@
 ---
 title: Los piratas informáticos apuntan a los servidores Apache Tomcat para Mirai Botnet y Crypto Mining
-author: ccastrol
 date: 2023-07-27 12:53:00 -0500
+pin: true
+math: true
+mermaid: true
 categories: [ciberseguridad]
 tags: [tomcat, apache,mirai, botnet,crypto, mining]
 render_with_liquid: false
@@ -29,9 +31,11 @@ El desarrollo se produce cuando el AhnLab Security Emergency Response Center (AS
 Estos hallazgos también demuestran la naturaleza lucrativa de la minería de criptomonedas, que ha experimentado un aumento del 399 % con respecto al año pasado, con 332 millones de ataques de cryptojacking registrados en la primera mitad de 2023 a nivel mundial, según SonicWall.
 
 ### Recomendaciones
+> 
 * Es importante adoptar una postura de ciberseguridad proactiva para agarantizar que las organizaciones esten protegidas.
 * Para mitigar, se recomienda no usar contraseñas por defecto y asegurar sus entrnos, para evitar ataques de fuerza bruta.
 * Asegurar su entorno con herramientas provistas de canales oficiales.
+{: .prompt-tip }
 
 ### Referencias
 * Fuente 1: Hackers Target Apache Tomcat Servers for Mirai Botnet and Crypto Mining
