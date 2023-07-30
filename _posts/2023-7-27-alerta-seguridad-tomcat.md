@@ -8,6 +8,7 @@ categories: [ciberseguridad]
 tags: [tomcat, apache,mirai, botnet,crypto, mining]
 render_with_liquid: false
 ---
+
 Los servidores Apache Tomcat mal configurados y mal asegurados están siendo atacados como parte de una nueva campaña diseñada para entregar el malware de botnet Mirai y los mineros de criptomonedas.
 
 Los hallazgos son cortesía de Aqua, que detectó más de 800 ataques contra sus servidores trampa Tomcat durante un período de dos años, con el 96 % de los ataques vinculados a la red de bots Mirai.
