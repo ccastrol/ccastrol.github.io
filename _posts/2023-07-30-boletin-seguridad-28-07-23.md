@@ -3,7 +3,6 @@ title: Boletin de seguridad 28-07-23
 date: 2023-07-30 11:33:00 +0800
 categories: [Boletín, ciberseguridad]
 tags: [apple, ransomware]
-pin: true
 math: true
 mermaid: true
 

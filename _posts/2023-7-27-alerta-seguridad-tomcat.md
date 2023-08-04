@@ -1,7 +1,6 @@
 ---
 title: Los piratas informáticos apuntan a los servidores Apache Tomcat para Mirai Botnet y Crypto Mining
 date: 2023-07-27 12:53:00 -0500
-pin: true
 math: true
 mermaid: true
 categories: [ciberseguridad]

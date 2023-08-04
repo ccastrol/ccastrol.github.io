@@ -3,7 +3,6 @@ title: Alerta de Seguridad - Apple lanza parches urgentes para fallas de día ce
 date: 2023-07-25 11:33:00 +0800
 categories: [ciberseguridad]
 tags: [ciberseguridad, IOS]
-pin: true
 math: true
 mermaid: true
 image:
