@@ -1,10 +1,11 @@
 ---
 title: Los phishers explotan los servicios de correo electrónico de Salesforce Zero-Day en una campaña de Facebook dirigida
 date: 2023-08-04 6:33:00 +0800
-categories: [ciberseguridad]
+categories: [CIBERSEGURIDAD]
 tags: [facebook, salesforce, phishin]
 math: true
 mermaid: true
+toc: true
 image:
   path: /assets/images/Alerta-seguridad-phishers-salesforce/1.png
 ---

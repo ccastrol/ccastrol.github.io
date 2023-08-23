@@ -3,8 +3,9 @@ title: Los piratas informáticos apuntan a los servidores Apache Tomcat para Mir
 date: 2023-07-27 12:53:00 -0500
 math: true
 mermaid: true
-categories: [ciberseguridad]
+categories: [CIBERSEGURIDAD]
 tags: [tomcat, apache,mirai, botnet,crypto, mining]
+toc: true
 render_with_liquid: false
 ---
 

@@ -1,10 +1,11 @@
 ---
 title: Alerta de Seguridad - Apple lanza parches urgentes para fallas de día cero que afectan a iPhones, iPads y Macs
 date: 2023-07-25 11:33:00 +0800
-categories: [ciberseguridad]
-tags: [ciberseguridad, IOS]
+categories: [CIBERSEGURIDAD]
+tags: [ciberseguridad, ios, vulnerabilidad, parches, apple]
 math: true
 mermaid: true
+toc: true
 image:
   path: /assets/images/Alerta-de-seguridad-Apple/Apple-Parche.jpg
 ---

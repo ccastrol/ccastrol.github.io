@@ -1,7 +1,7 @@
 ---
 title: Montar Google Drive en Linux con ocamlfuse
 date: 2023-08-20 18:53:00 -0500
-categories: [tutorial]
+categories: [ARTICULO, TUTORIAL]
 tags: [google, ocamlfuse, drive, montar, productividad]
 render_with_liquid: false
 toc: true

@@ -1,10 +1,11 @@
 ---
 title: Alerta de Seguridad -Microsoft expone las tácticas furtivas de phishing de los piratas informáticos rusos a través de los chats de Microsoft Teams
 date: 2023-08-03 11:33:00 +0800
-categories: [ciberseguridad]
+categories: [CIBERSEGURIDAD]
 tags: [microsoft, teams, phishing]
 math: true
 mermaid: true
+toc: true
 image:
   path: /assets/images/Alerta-microsoft-teams/teams.jpg
 ---

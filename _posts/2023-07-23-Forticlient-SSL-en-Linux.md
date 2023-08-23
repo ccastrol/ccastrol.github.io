@@ -1,22 +1,9 @@
 ---
-#layout: single
 title: Conectar a Forticlient con OpenfortiVPN
-excerpt: "Son muchas las empresas que usan Forticlient para conectar por VPN. Hoy te explico como conectar por Forticlient SSL usando OpenFortiVPN."
 date: 2023-07-23
-classes: wide
-header:
-  teaser: /assets/images/openfortivpn/portada.png
-  teaser_home_page: true
-categories:
-  - Utilidades
-  - Networking
-  - Vulnerabilidades
-tags:
-  - Herramientas
-  - Windows
-  - Linux
-  - Domain Controller
-  - Guía
+categories: [ARTICULO]
+tags: [windows, linux, controlador de dominio, domain controller, forticlient]
+toc: true
 ---
 
 ![](/assets/images/openfortivpn/portada.png)
