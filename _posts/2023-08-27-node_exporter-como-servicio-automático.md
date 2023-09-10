@@ -8,6 +8,10 @@ toc: true
 image:
   path: /assets/images/node_exporter/Miniatura.png
 ---
+
+{% include embed/{youtube}.html id='{FqgnXg0pkInnyghK}' %}
+
+
 ## Introducción.
 Es este articulo explicaré la forma de como poner a node_exporter como servicio con inicio autoático en un equipo Linux.
 
