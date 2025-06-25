@@ -55,6 +55,6 @@ Los desarrolladores de Notepad++ lanzaron la versión 8.8.2 que corrige esta fal
 	
 ## Referencias
 
-- Fuente 1: https://cybersecuritynews.com/notepad-vulnerability/
-- Fuente 2: https://gbhackers.com/notepad-vulnerability/
-- Fuente 3: https://intruceptlabs.com/2025/06/privilege-escalation-in-notepad-v8-8-1-installer-via-binary-planting-with-public-poc-available/
+- Fuente 1: <https://cybersecuritynews.com/notepad-vulnerability/>
+- Fuente 2: <https://gbhackers.com/notepad-vulnerability/>
+- Fuente 3: <https://intruceptlabs.com/2025/06/privilege-escalation-in-notepad-v8-8-1-installer-via-binary-planting-with-public-poc-available/>
