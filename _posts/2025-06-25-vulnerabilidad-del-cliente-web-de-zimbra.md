@@ -9,7 +9,7 @@ tags:
 - vilnerabilidad
 - javascript
 image:
-  path: "/assets/img/zimbra.jpg"
+  path: "/assets/img/zimbra-injection.png"
   alt: zimbra con vulnerabilidades críticas, incluyendo fallas de XSS almacenado,
     inyección SQL, SSRF, DoS y LFI.
 date: 2025-06-25 20:37 -0500
