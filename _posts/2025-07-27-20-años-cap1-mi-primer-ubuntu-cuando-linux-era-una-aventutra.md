@@ -15,7 +15,7 @@ date: 2025-07-27 14:27 -0500
 ---
 # Capítulo 1: Mi primer Ubuntu - Cuando Linux era una aventura
 
-*La historia de cómo un Windows XP me llevó a descubrir Ubuntu 6.06. Los primeros comandos, los primeros errores y esa sensación de estar hackeando la matrix.*
+*La historia de cómo un experto de Linux me llevó a descubrir Ubuntu 6.06. Los primeros comandos, los primeros errores y esa sensación de estar hackeando la matrix.*
 
 ---
 
