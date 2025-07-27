@@ -4,6 +4,7 @@ title: '20 años cap1 Mi primer Ubuntu: Cuando Linux era una aventutra'
 author: author_01
 categories:
 - historia
+- 20años
 tags:
 - 20años
 - cap1
