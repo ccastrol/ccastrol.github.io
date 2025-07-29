@@ -85,7 +85,7 @@ Mostrar estos efectos a mis compañeros de trabajo se convirtió en mi hobby fav
 Mi búsqueda de conocimiento me llevó a descubrir el grupo de usuarios Linux de la Universidad Nacional de Trujillo. Ahí conocí a un grupo de jóvenes entusiastas que, como yo, estaban fascinados por este mundo del software libre.
 
 Año tras año celebrábamos el FLISOL (Festival Latinoamericano de Software Libre). Empecé como un simple asistente, pero poco a poco me fui involucrando más. Mi primera participación fue ayudando en las instalaciones de Ubuntu—esa parte práctica donde la gente traía sus computadoras y nosotros les instalábamos el sistema.
-
+![Desktop View](/assets/img/01.jpg){: width="972" height="589" .w-50 .left}
 Pero hubo un momento que me marcó para siempre. Un presentador faltó a última hora, y sin preparación alguna, tuve que dar una charla sobre "Cómo instalar Ubuntu paso a paso".
 
 **Los nervios eran terribles.** No tenía slides preparadas, no había ensayado, no tenía experiencia hablando en público. Pero tenía algo más valioso: **pasión genuina por compartir conocimiento**.
