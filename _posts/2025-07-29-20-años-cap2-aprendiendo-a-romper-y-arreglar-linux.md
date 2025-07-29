@@ -7,6 +7,7 @@ tags: []
 image:
   path: "/assets/img/universidad.jpg"
   alt: La época universitaria, lo mejor de la vida.
+date: 2025-07-29 08:30 -0500
 ---
 Los años formativos con Fedora. De experimentador incansable a estudiante pragmático. Cuando ser "el raro" te convierte en el experto.
 
