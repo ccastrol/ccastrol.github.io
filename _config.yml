@@ -72,7 +72,6 @@ analytics:
     id: # fill in your Cloudflare Web Analytics token
   fathom:
     id: # fill in your Fathom Site ID
-  clarity_id:
 
 # Page views settings
 pageviews:
